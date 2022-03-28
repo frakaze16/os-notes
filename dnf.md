@@ -1,6 +1,6 @@
 # DNF comparison between apt
 
-[page]("https://www.fosslinux.com/47693/fedora-package-management-with-dnf.htm")
+[page](https://www.fosslinux.com/47693/fedora-package-management-with-dnf.htm)
 
 | APT commands | DNF commands |
 | --- | --- |
